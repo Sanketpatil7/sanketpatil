@@ -2,8 +2,7 @@
 
 ## 🚀 Full Stack Java Developer | Spring Boot | Microservices | React.js
 
-🎓 B.Tech Computer Science Engineering (IoT & Cyber Security with Blockchain)
-
+🎓 B.Tech Computer Science Engineering 
 💻 Passionate about building scalable backend systems, real-time applications, and full-stack web solutions.
 
 🌱 Currently exploring Cloud Technologies, System Design, Microservices Architecture, and Distributed Systems.
