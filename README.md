@@ -119,6 +119,8 @@ Python • Streamlit • Pandas • Plotly
 
 ---
 
+"Keep Learning. Keep Building. Keep Improving."
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanketpatil7\&show_icons=true)
